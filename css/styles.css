@@ -15,3 +15,15 @@
     0 0 0 4px rgba(255, 145, 0, 0.5);
   border-color: transparent;
 }
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+}
