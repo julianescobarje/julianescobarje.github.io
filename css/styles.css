@@ -1,0 +1,17 @@
+* {
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+}
+
+.skill {
+  border: 2px solid transparent;
+  border-radius: 5px;
+  padding: 5px;
+  transition: border-color 0.3s ease-in-out;
+}
+
+.skill:hover {
+  box-shadow: 0 0 0 2px rgba(224, 109, 63, 0.5),
+    0 0 0 4px rgba(255, 145, 0, 0.5);
+  border-color: transparent;
+}
